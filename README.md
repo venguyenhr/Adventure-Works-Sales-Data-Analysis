@@ -1,3 +1,5 @@
+# Adventure-Works-Sales-Data-Analysis
+
 Power BI Dashboard Project: Analysis of Adventure Works Sales Data
 
 📊 Business case: The management team at AdventureWorks, a leading global manufacturer of cycling equipment and accessories, requires interactive dashboards to effectively track key performance indicators (KPIs) such as sales, revenue, profit, and returns. These tools will also enable them to compare regional performance, analyze product trends, and identify high-value customers.
